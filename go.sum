@@ -1,3 +1,6 @@
+github.com/matryer/is v1.4.0/go.mod h1:8I/i5uYgLzgsgEloJE1U6xx5HkBQpAZvepWuujKwMRU=
+github.com/quii/fstest-spike v0.0.0-20210603161226-22f21fe78577 h1:4Z4pizzdy5DCQxwzmNW5Mmj4RzzLqFSgZ3EC8wh3uxY=
+github.com/quii/fstest-spike v0.0.0-20210603161226-22f21fe78577/go.mod h1:O3ItJhH9IdRc5lBUMbbD/5Avo1LIv7tHUYE4PgGGIWc=
 github.com/yuin/goldmark v1.4.13 h1:fVcFKWvrslecOb/tg+Cc05dkeYx540o0FuFt3nUVDoE=
 github.com/yuin/goldmark v1.4.13/go.mod h1:6yULJ656Px+3vBD8DxQVa3kxgyrAnzto9xy5taEt/CY=
 golang.org/x/mod v0.17.0 h1:zY54UmvipHiNd+pm+m0x9KhZ9hl1/7QNMyxXbc6ICqA=
